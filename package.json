@@ -1,0 +1,22 @@
+{
+  "name": "zigwebsite",
+  "version": "1.0.0",
+  "description": "ZiG WebApp Deployment Test",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanKayz/zigwebsite.git"
+  },
+  "author": "Allan Kanyemba",
+  "license": "ISC",
+  "homepage": "https://AllanKayz.github.io/zigwebapp",
+  "bugs": {
+    "url": "https://github.com/AllanKayz/zigwebsite/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
