@@ -2,7 +2,7 @@
   "name": "zigwebsite",
   "version": "1.0.0",
   "description": "ZiG WebApp Deployment Test",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "deploy":"gh-pages -d dist"
   },
